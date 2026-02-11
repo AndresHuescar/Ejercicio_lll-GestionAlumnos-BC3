@@ -1,0 +1,4 @@
+Alumnos Aprobados
+Juan -> 7.15
+Ana -> 8.05
+María -> 9.1
